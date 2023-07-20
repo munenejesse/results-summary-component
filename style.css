@@ -100,12 +100,14 @@
     font-family: var(--ff-main);
     color: var(--Dark-gray-blue);
     font-size: var(--fs-400);
-    background: var(--Pale-blue);
+    background:var(--White);
   }
   main{
     background: var(--White);
     display: grid;
     border-radius: var(--border-radius);
+    margin-top: 2rem;
+    margin-bottom: 2rem;
 
   }
   .btn {
